@@ -19,6 +19,7 @@ public class ItemsServiceImpl implements ItemsService {
 
     public static void main(String[] args) {
         System.out.println("llalalal");
+        System.out.println("llalalajsadjadjl");
     }
 
 }
