@@ -16,4 +16,8 @@ public class ItemsServiceImpl implements ItemsService {
     public Items findById(Integer id) {
         return itemsDao.findById(id);
     }
+
+    public static void main(String[] args) {
+        System.out.println("nihao");
+    }
 }
